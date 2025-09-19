@@ -1,17 +1,17 @@
-# 👋 Hi, I'm Sándor Császi!
+# 👋 Hey there, I'm Sándor Császi! 🚀
 
-## 🌟 About Me
-Industrial automation technician, electrical engineer, and former I4.0 competitor, passionate about tinkering, coding, and exploring new technologies. 
-I love industrial automation, PLC programming, web development, and embedded systems.  
+### 🌟 About Me
+Industrial Automation Technician, Electrical Engineer & I4.0 competitor.  
+Passionate about tinkering, coding, embedded systems, and building cool projects! ⚡️
 
 ---
 
-## 💻 My Focus Areas
-- Industry 4.0 & Industrial Automation  
-- PLC Programming & Industrial Protocols  
-- Web Development: React, TypeScript, Node.js  
-- Embedded Systems & Electronics  
-- Python, Linux, Databases  
+## 💻 Focus Areas
+- 🔧 Industry 4.0 & Industrial Automation  
+- 🤖 PLC Programming & Industrial Protocols  
+- 🌐 Web Development: React, TypeScript, Node.js  
+- 💡 Embedded Systems & Electronics  
+- 🐍 Python | 🐧 Linux | 🗄️ Databases
 
 ---
 
