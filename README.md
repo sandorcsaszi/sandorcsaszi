@@ -25,11 +25,6 @@ Passionate about tinkering, coding, embedded systems, and building cool projects
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql) 
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat&logo=linux)  
 
----
-
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandorcsaszi&layout=compact&theme=radical)
-![Stats](https://github-readme-stats.vercel.app/api?username=sandorcsaszi&show_icons=true&theme=radical)
 
 ---
 
