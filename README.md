@@ -166,14 +166,5 @@ focus:       [OT/IT integration, Industrial IoT, PLC engineering, embedded hardw
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandorcsaszi&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Top languages"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandorcsaszi&bg_color=0d1117&color=c9d1d9&line=22d3ee&point=ffffff&area=true&area_color=0e7490&hide_border=true&custom_title=Contribution%20activity" width="100%" alt="Activity graph"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandorcsaszi/sandorcsaszi/output/github-snake-dark.svg"/>
-  </picture>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:22d3ee,50:0e7490,100:0f172a&section=footer" width="100%"/>
