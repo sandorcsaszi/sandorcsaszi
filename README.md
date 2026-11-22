@@ -135,7 +135,6 @@ focus:       [OT/IT integration, Industrial IoT, PLC engineering, embedded hardw
 <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white"/>
 <img src="https://img.shields.io/badge/IO--Link-1f2937?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PROFINET-1f2937?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Festo_CP_Lab-0091DC?style=for-the-badge"/>
 
 **Embedded & hardware**
 
