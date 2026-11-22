@@ -42,7 +42,7 @@
 ```yaml
 name:        Sándor Császi
 location:    Budapest, Hungary
-studying:    BSc Electrical Engineering @ BME VIK
+studying:    Electrical Engineering @ BME VIK
 background:  Industrial automation technician
 focus:       [OT/IT integration, Industrial IoT, PLC engineering, embedded hardware, industrial AR]
 ```
